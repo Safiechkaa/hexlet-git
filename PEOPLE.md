@@ -1,1 +1,1 @@
-Safia
+Haskell Curry
